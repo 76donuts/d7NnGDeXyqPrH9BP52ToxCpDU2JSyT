@@ -1,3 +1,5 @@
 1.2.1
-
 - UI Pakeitimai
+1.2.2
+- UI Pakeitimai
+- Dabar atnaujinimus tikrinama tik atidarus shortcut (prieš šitą pakeitimą buvo tikrinama kiekvieną kartą)
