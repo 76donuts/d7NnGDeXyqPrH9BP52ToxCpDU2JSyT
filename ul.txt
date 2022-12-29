@@ -3,3 +3,5 @@
 1.2.2
 - UI Pakeitimai
 - Dabar atnaujinimus tikrinama tik atidarus shortcut (prieš šitą pakeitimą buvo tikrinama kiekvieną kartą)
+1.2.2a
+- Pakeista keleta klaidų.
